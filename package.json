@@ -1,0 +1,20 @@
+{
+  "name": "eslint-starter",
+  "version": "1.0.0",
+  "description": "ESLint - configuration starter",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Grzegorz Sarzyński",
+  "license": "ISC"
+}
